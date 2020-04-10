@@ -19,6 +19,9 @@
 		padding: 40px 15px 15px 15px;
         margin: 10px;
 		}
+        body
+        { background-color:#b0c4de;
+         }
 
 
 	.row {
